@@ -1,0 +1,16 @@
+# Build products
+build/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+
+# macOS and editor artifacts
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
