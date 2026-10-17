@@ -4,7 +4,7 @@
 
 ![Animated STM32 command-line workflow](docs/stm32-workflow.gif)
 
-> **About the animation:** The GIF/MP4 are illustrative demonstrations, not a recording of a real hardware programming session. The C, assembly, linker and Makefile source code are included below. **Real-board flashing/debugging have not been verified in this environment.**
+> **About the animation:** The MP4 are illustrative demonstrations, not a recording of a real hardware programming session. The C, assembly, linker and Makefile source code are included below. **Real-board flashing/debugging have not been verified in this environment.**
 
 ## What you will build
 
