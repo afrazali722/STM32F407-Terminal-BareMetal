@@ -348,4 +348,4 @@ The repository contains real source code and build configuration. A Cortex-M4-or
 
 Distributed under the **MIT License**; see [LICENSE](LICENSE).
 # stm32f407-terminal-baremetal
-# stm32f407-terminal-baremetal
+
