@@ -340,7 +340,6 @@ GitHub may prompt you to authenticate. If Git refuses to commit because your ide
 - [GNU Arm Embedded GCC (Homebrew)](https://formulae.brew.sh/formula/arm-none-eabi-gcc)
 - [GNU Arm Embedded GDB (Homebrew)](https://formulae.brew.sh/formula/arm-none-eabi-gdb)
 - [Sample terminal session](docs/terminal-session.md)
-- [LinkedIn post caption](docs/linkedin-caption.md)
 
 ## Validation and license
 
