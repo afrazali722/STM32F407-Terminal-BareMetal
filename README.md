@@ -305,9 +305,7 @@ stm32f407-terminal-baremetal/
     ├── board-notes.md
     ├── terminal-session.md
     ├── troubleshooting.md
-    ├── linkedin-caption.md
     ├── stm32-workflow.gif
-    └── stm32-workflow.mp4
 ```
 
 ## Publish this project on GitHub (repository owner)
